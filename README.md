@@ -19,7 +19,10 @@
   
 
 - ```bash
-  export AIRFLOW_HOME=~/airflow (환경변수 설정)
+  export AIRFLOW_HOME=~/airflow (경로 설정)(실행할 터미널의 주소로 세팅하면 추후 해당하는 폴더에 파일들이 생성된다.)
+
+  ex>
+  export AIRFLOW_HOME=/mnt/c/Users/kuidoli/airflow_tutorial
   ```
 
 
@@ -137,7 +140,10 @@ WSL의 업데이트 버전인 WSL2를 작년에 마이크로소프트에서 공�
 
 
 - ```bash
-  export AIRFLOW_HOME=~/airflow
+  export AIRFLOW_HOME=~/airflow (경로 설정)(실행할 터미널의 주소로 세팅하면 추후 해당하는 폴더에 파일들이 생성된다.)
+
+  ex>
+  export AIRFLOW_HOME=/mnt/c/Users/kuidoli/airflow_tutorial
   ```
 
 
